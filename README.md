@@ -4,7 +4,7 @@ LibraryManagment was developed at [Aveiro University](https://www.ua.pt) in the 
 
 This project was divided into multiple phases:
 1. Requirements analysis
-2. Conceptual drawing, relational model
+2. Conceptual model, relational model
 3. Data entry and queries
 4. Interface
 5. Stored procedures, Triggers, User definition function
